@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

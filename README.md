@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |

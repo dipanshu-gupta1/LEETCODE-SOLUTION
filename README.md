@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0141-linked-list-cycle) |
 | [0383-ransom-note](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0383-ransom-note) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
 | ------- |
@@ -67,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Sliding Window
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 <!---LeetCode Topics End-->

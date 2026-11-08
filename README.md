@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0033-search-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1882-process-tasks-using-servers](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2747-count-zero-request-servers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0383-ransom-note) |
+| [1267-count-servers-that-communicate](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 ## Sorting
 |  |
 | ------- |
@@ -92,4 +94,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Depth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
+## Matrix
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

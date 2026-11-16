@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Array
 |  |
 | ------- |

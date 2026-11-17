@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/dipanshu-gupta1/LEETCODE-SOLUTION/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
